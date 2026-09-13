@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// Uygulamanın giriş noktası: SwiftUI yaşam döngüsünü başlatır.
 @main
 struct SmartChildPlannerApp: App {
     var body: some Scene {
